@@ -1,0 +1,6 @@
+{
+  "name": "Madina Build",
+  "description": "Jasa Arsitek, Kontraktor & Interior Berbasis Syariah - Premium, Amanah, dan Transparan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
